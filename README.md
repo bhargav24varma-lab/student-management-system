@@ -125,8 +125,8 @@ Login system (Admin/User)
 
 👤 Author
 
-Your Name
-(Student / Developer)
+Jampana Bhargava Varma
+(Student)
 
 GitHub: https://github.com/bhargav24vrma-lab
 

@@ -128,7 +128,7 @@ Login system (Admin/User)
 Your Name
 (Student / Developer)
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/bhargav24vrma-lab
 
 📄 License
 

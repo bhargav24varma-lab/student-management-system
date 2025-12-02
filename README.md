@@ -71,7 +71,7 @@ IDE	VS Code
 Version Control	Git & GitHub
 🚀 How to Run the Project
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/student-management-system.git
+git clone https://github.com/bhargav24varma-lab/student-management-system.git
 
 2. Move into the project folder
 cd student-management-system
